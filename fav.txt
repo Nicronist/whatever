@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pizza
 potato
 tomato
+=======
+blacklist
+family
+law
+>>>>>>> movies
